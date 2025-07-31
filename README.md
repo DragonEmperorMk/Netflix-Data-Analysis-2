@@ -92,7 +92,7 @@ It contains details about TV Shows and Movies available on Netflix up to 2021.
 
 For any feedback or questions, feel free to connect:  
 **Author:** Manish  
-**Email:** [your-email@example.com]  
+**Email:** [mk9818463599@gmail.com]
 **LinkedIn:** [linkedin.com/in/your-profile] *(Optional)*
 
 ---
